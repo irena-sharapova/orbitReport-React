@@ -1,4 +1,5 @@
 import React from 'react';
+import "../components/styling.css";
 
 function Banner() {
     return (

@@ -1,3 +1,5 @@
+import "../components/styling.css";
+
 const Table = ({ sat }) => {
   return (
     <table>
