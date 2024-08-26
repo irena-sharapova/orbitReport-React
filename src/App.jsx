@@ -22,7 +22,6 @@ function App() {
       filterByType={filterByType}
       setSat={setSat}
       orbitTypes={orbitTypes}
-      satData = {satData}
       />
       <Table sat={sat} />
     </div>
